@@ -8410,25 +8410,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/JM/.nuget/packages/": {}
+    "C:\\Users\\RPC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JM/Desktop/Payment-Detail-Register/PaymentAPI/PaymentAPI.csproj",
+      "projectUniqueName": "C:\\Users\\RPC\\Music\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "projectName": "PaymentAPI",
-      "projectPath": "/Users/JM/Desktop/Payment-Detail-Register/PaymentAPI/PaymentAPI.csproj",
-      "packagesPath": "/Users/JM/.nuget/packages/",
-      "outputPath": "/Users/JM/Desktop/Payment-Detail-Register/PaymentAPI/obj/",
+      "projectPath": "C:\\Users\\RPC\\Music\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "packagesPath": "C:\\Users\\RPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RPC\\Music\\repos\\PaymentAPI\\PaymentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/JM/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\RPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8441,11 +8442,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8494,7 +8490,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
