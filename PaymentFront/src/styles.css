@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+
+.mouse-hover{
+    cursor: pointer;
+}
+#del:hover {
+    /* background-color: #008CBA; */
+    color: rgba(218, 0, 0, 0.963); /* change to your desired color */
+}
+#update:hover {
+    /* background-color: #008CBA; */
+    color: rgba(0, 84, 218, 0.963); /* change to your desired color */
+}
+
+form label {
+    text-transform: uppercase;
+    color: grey;
+  }
+  
+  form input {
+    font-weight: 500;
+  }
+  
+  form input::placeholder {
+    color: #c0bdbd;
+    font-weight: 300;
+  }
+  
+  form.submitted input.ng-invalid{
+    border-color: red;
+  }
